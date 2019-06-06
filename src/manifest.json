@@ -1,7 +1,7 @@
 {
 	"name": "Kevin Bacon",
 	"version": "1.4",
-	"description": "Kevin Bacon uses his super powers to find you movie ratings for Netflix!",
+	"description": "Netflix + IMDB",
 	"permissions": ["tabs"],
 	"icons": {
 		"16": "images/16.png",
