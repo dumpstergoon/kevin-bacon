@@ -1,2 +1,3 @@
 # kevin-bacon
-Kevin Bacon gets us content meta info to add to Netflix
+
+[Download from the Chrome Extensions Store](https://chrome.google.com/webstore/detail/kevin-bacon/gadpfdnepcenabfdlfbdoagkmnnlphgb)
